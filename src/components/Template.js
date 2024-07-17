@@ -15,7 +15,7 @@ const Template = (props) => {
   console.log("ye rha mera form type");
   console.log(formtype);
   return (
-    <div className="flex gap-10 justify-between lg:gap-36 mt-10 pl-4 pt-5 w-11/12 
+    <div className="flex gap-10 justify-between lg:gap-36 mb-6 mt-10 pl-4 pt-5 w-11/12 
     max-w-[980px] mx-auto overflow-hidden">
       <div className="w-11/12 max-w-[450px] ">
         <h1 className="text-richblack-5 font-semibold text-[1.7875rem] leading-[2.175rem]">
